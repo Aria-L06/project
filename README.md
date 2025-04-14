@@ -13,3 +13,9 @@ The code for paper "LncRNA-MiRNA Interaction Prediction Based on Multi-source He
 *pandas == 2.2.3
 *torch == 2.5.1
 *sklearn == 1.5.2
+
+## Quick Start
+Here we provide a example to predict the lncRNA-miRNA interaction scores on dataset:
+
+1.  Download and upzip our data and code files
+2.  Run main.py (in file-- code/main.py)
