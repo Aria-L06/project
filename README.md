@@ -1,7 +1,7 @@
 # LncRNA-MiRNA Interaction Prediction Based on Multi-source Heterogeneous Graph Neural Network and Multi-level Attention Mechanism
 
 ## Overview
-The code for paper "LncRNA-MiRNA Interaction Prediction Based on Multi-source Heterogeneous Graph Neural Network and Mul-ti-level Attention Mechanism". The repository is organized as follows:
+The code for paper "LncRNA-MiRNA Interaction Prediction Based on Multi-source Heterogeneous Graph Neural Network and Multi-level Attention Mechanism". The repository is organized as follows:
 + 'data/interaction' is the interaction data of mirna and lncrna with diseases, drugs and mRNA respectively
 + 'data/lncRNA(miRNA)' is the node attributes and topological features of lncRNA(miRNA)
 + 'code/feature' is the RNA feature extraction
